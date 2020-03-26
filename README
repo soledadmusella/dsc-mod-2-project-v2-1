@@ -1,0 +1,11 @@
+Flatiron Second Project
+
+The purpose of this analysis is to predict the sales price of the propertis using the combiation of different variables. The insights that I obtained thanks to this first analysis would be the base to continue to explore other models until I will achieved satisfactory results in order to predict the price of real state market. 
+
+SUMMARY
+
+Starting from a huge dataset of the Seattle property market my first step was to clean the dataset by dropping the null values and inspect all the columns in order to get familiar with the dataframe and make my initials assumptions. Once done the data cleaning and the data inspecting I plotted the variables in order to have a first understanding of their correlation upon the price. After doing this preliminar analysis I stared with the real statistical analysis. I created 4 models by adding some variables and dropping other variables in order to see their correlation between eachother and to understand which variable can be a good predictor for the price. Lastly I formulated 3 business questions that can help and guide the real estate market to do the best business choises by using plots and t test to validate the hypotesis that I've formulated in my business questions. 
+
+Conclusion
+
+It is necessary to spend more time exploring the data and on the data clearing process as the correlations visualitations of the parameters would have improved. The models that i' ve built are not really fitting the linear regression assumptions( as is clearly shown from the plots)of normality and homoscedasticity so the models need to be improved.
